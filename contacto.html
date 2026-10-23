@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contacto — MiniPC Lab</title>
+<meta name="description" content="Formulario de contacto estático de MiniPC Lab para solicitar información sobre mini PCs.">
+<link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="index.html">
+      <img src="img/logo.svg" alt="Logotipo MiniPC Lab">
+      MiniPC Lab
+    </a>
+    <nav class="nav" aria-label="Navegación principal">
+      <a href="index.html">Inicio</a>
+      <a href="nuc-pro-x.html">NUC Pro X</a>
+      <a href="miniforge-m1.html">MiniForge M1</a>
+      <a href="atomcube-nano.html">AtomCube Nano</a>
+      <a href="titan-micro-g.html">Titan Micro G</a>
+      <a href="contacto.html" aria-current="page">Contacto</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="wrap crumbs"><a href="index.html">Inicio</a><span>/</span>Contacto</div>
+
+  <section style="padding-top:0">
+    <div class="wrap">
+      <h1>Contacto</h1>
+      <p class="lead">
+        Formulario de demostración sin backend. En un sitio real lo conectarías
+        a un servicio externo o a un endpoint propio.
+      </p>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <form class="form" action="#" method="post">
+        <div class="field">
+          <label for="nombre">Nombre</label>
+          <input type="text" id="nombre" name="nombre" placeholder="Tu nombre" required>
+        </div>
+        <div class="field">
+          <label for="email">Correo electrónico</label>
+          <input type="email" id="email" name="email" placeholder="tu@correo.com" required>
+        </div>
+        <div class="field">
+          <label for="modelo">Modelo de interés</label>
+          <select id="modelo" name="modelo">
+            <option value="nuc-pro-x">NUC Pro X</option>
+            <option value="miniforge-m1">MiniForge M1</option>
+            <option value="atomcube-nano">AtomCube Nano</option>
+            <option value="titan-micro-g">Titan Micro G</option>
+            <option value="otro">Otro / asesoramiento</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="mensaje">Mensaje</label>
+          <textarea id="mensaje" name="mensaje" rows="6" placeholder="Cuéntanos qué necesitas"></textarea>
+        </div>
+        <div>
+          <button class="btn btn-primary" type="submit">Enviar mensaje</button>
+        </div>
+      </form>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div><h4>MiniPC Lab</h4><p>Sitio estático de demostración para pruebas de rendimiento y CDN.</p></div>
+      <div><h4>Modelos</h4><ul>
+        <li><a href="nuc-pro-x.html">NUC Pro X</a></li>
+        <li><a href="miniforge-m1.html">MiniForge M1</a></li>
+        <li><a href="atomcube-nano.html">AtomCube Nano</a></li>
+        <li><a href="titan-micro-g.html">Titan Micro G</a></li>
+      </ul></div>
+      <div><h4>Enlaces</h4><ul>
+        <li><a href="contacto.html">Contacto</a></li>
+        <li><a href="index.html">Inicio</a></li>
+      </ul></div>
+    </div>
+    <div class="footer-bottom">© 2025 MiniPC Lab — Contenido ficticio con fines de prueba.</div>
+  </div>
+</footer>
+
+</body>
+</html>
