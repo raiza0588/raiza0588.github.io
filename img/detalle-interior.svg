@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Detalle del interior">
+  <rect width="800" height="500" fill="#1b2740"/>
+  <rect x="150" y="140" width="500" height="220" rx="12" fill="#22314f" stroke="#24314d" stroke-width="3"/>
+  <rect x="200" y="190" width="150" height="40" rx="6" fill="#0b1220" stroke="#38bdf8" stroke-width="2"/>
+  <rect x="200" y="250" width="150" height="40" rx="6" fill="#0b1220" stroke="#38bdf8" stroke-width="2"/>
+  <rect x="400" y="190" width="200" height="24" rx="6" fill="#0b1220" stroke="#22d3ee" stroke-width="2"/>
+  <rect x="400" y="240" width="200" height="24" rx="6" fill="#0b1220" stroke="#22d3ee" stroke-width="2"/>
+  <text x="400" y="420" font-family="system-ui,sans-serif" font-size="20" fill="#9fb0cc" text-anchor="middle">Interior y ranuras ampliables</text>
+</svg>

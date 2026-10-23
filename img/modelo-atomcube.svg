@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="AtomCube Nano">
+  <rect width="800" height="500" fill="#1b2740"/>
+  <rect x="300" y="200" width="200" height="110" rx="10" fill="#2a3a5c" stroke="#38bdf8" stroke-width="3"/>
+  <rect x="330" y="230" width="60" height="8" rx="4" fill="#24314d"/>
+  <rect x="330" y="250" width="40" height="8" rx="4" fill="#24314d"/>
+  <text x="400" y="370" font-family="system-ui,sans-serif" font-size="30" fill="#38bdf8" text-anchor="middle">AtomCube Nano</text>
+  <text x="400" y="402" font-family="system-ui,sans-serif" font-size="16" fill="#9fb0cc" text-anchor="middle">Imagen de ejemplo</text>
+</svg>

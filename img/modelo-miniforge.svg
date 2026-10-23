@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="MiniForge M1">
+  <rect width="800" height="500" fill="#1b2740"/>
+  <rect x="240" y="165" width="320" height="170" rx="16" fill="#22314f" stroke="#22d3ee" stroke-width="3"/>
+  <circle cx="330" cy="250" r="28" fill="none" stroke="#38bdf8" stroke-width="5"/>
+  <circle cx="470" cy="250" r="28" fill="none" stroke="#38bdf8" stroke-width="5"/>
+  <text x="400" y="380" font-family="system-ui,sans-serif" font-size="30" fill="#22d3ee" text-anchor="middle">MiniForge M1</text>
+  <text x="400" y="412" font-family="system-ui,sans-serif" font-size="16" fill="#9fb0cc" text-anchor="middle">Imagen de ejemplo</text>
+</svg>

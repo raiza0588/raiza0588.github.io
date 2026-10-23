@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Detalle de puertos">
+  <rect width="800" height="500" fill="#1b2740"/>
+  <rect x="120" y="200" width="560" height="110" rx="10" fill="#2a3a5c" stroke="#24314d" stroke-width="3"/>
+  <rect x="160" y="230" width="60" height="50" rx="6" fill="#0b1220" stroke="#38bdf8" stroke-width="2"/>
+  <rect x="240" y="230" width="60" height="50" rx="6" fill="#0b1220" stroke="#38bdf8" stroke-width="2"/>
+  <rect x="320" y="240" width="40" height="30" rx="4" fill="#0b1220" stroke="#22d3ee" stroke-width="2"/>
+  <rect x="380" y="240" width="40" height="30" rx="4" fill="#0b1220" stroke="#22d3ee" stroke-width="2"/>
+  <circle cx="470" cy="255" r="14" fill="#0b1220" stroke="#38bdf8" stroke-width="2"/>
+  <circle cx="520" cy="255" r="14" fill="#0b1220" stroke="#38bdf8" stroke-width="2"/>
+  <rect x="570" y="235" width="70" height="40" rx="6" fill="#0b1220" stroke="#22d3ee" stroke-width="2"/>
+  <text x="400" y="380" font-family="system-ui,sans-serif" font-size="20" fill="#9fb0cc" text-anchor="middle">Panel de conexiones</text>
+</svg>
